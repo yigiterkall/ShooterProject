@@ -1,2 +1,2 @@
 # ShooterProject
-Desktop game with developed Unity Game Engine
+Desktop game with developed Unity Game Engine (Still on progress.)
